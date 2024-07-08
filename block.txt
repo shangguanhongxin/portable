@@ -1,0 +1,52 @@
+! 2024-01-08 https://sspai.com
+sspai.com###btn-call-app > div
+
+! 2024-01-09 https://m.ithome.com
+m.ithome.com##.open-app-banner
+m.ithome.com##.fixed-btn > .open-app-a
+
+! 2024-01-11 https://m.qidian.com
+m.qidian.com##.z-1.right-21px.bottom-48px.fixed
+m.qidian.com##div.flex-col.flex.h-full.pb-1px.first-of-type\:border-none.border-t.border-outline-black-8.relative.chapter-wrapper > .auto-tr
+m.qidian.com##._status2_17rbi_273._readClock_17rbi_193
+m.qidian.com##.\<sm\:px-12px.\<sm\:mb-48px.\<sm\:mx-20px.mb-64px.mx-64px.py-24px.px-32px.py-12px.rounded-8px.bg-on-image-s-black-4
+m.qidian.com##._chapterEndCon_19bvf_193
+
+! 2024-01-11 https://www.changyexiaoshuo.com
+www.changyexiaoshuo.com###nu71t_1705043788337top_dx
+
+! 2024-01-12 https://www.zhihu.com
+www.zhihu.com##.ErrorPage
+
+! 2024-01-12 https://qqtv.sbs
+qqtv.sbs###playera
+
+! 2024-01-12 https://saohua.site
+saohua.site##.player-wrapper
+
+! 2024-01-14 https://www.google.com
+www.google.com##.SR3ZX
+
+! 2024-01-21 https://www.fd80.com
+||w-home.com.cn/*$image
+||jhdvcjvsjkvjkb.com
+www.fd80.com##fsd:nth-of-type(n)
+www.fd80.com##pbe:nth-of-type(n)
+www.fd80.com##.mPhNB
+www.fd80.com##.WpGZT
+
+! 2024-01-23 https://m.youtube.com
+m.youtube.com##.mobile-topbar-header-endpoint
+
+! 2024-01-30 https://bbs.nga.cn
+bbs.nga.cn##.posterInfoLineB.posterInfoLine
+
+! 2024-01-31 https://m.qidian.com
+m.qidian.com##div.y-popup:nth-of-type(2)
+m.qidian.com##.justify-center.items-center.flex.z-5.inset-0.fixed
+m.qidian.com##.bg-on-image-white-70.z-4.inset-0.fixed
+m.qidian.com##.fr-fix-1073862e._catalogBottomDDL_16jnf_441.auto-tr
+m.qidian.com##.shadow-sd8.absolute.bottom-12px.right-16px.left-16px.primary.semicircle.large.justify-center.items-center.flex.flex-shrink-0.font-medium
+m.qidian.com##._homeDownload_1vaag_773._module_1vaag_376.auto-tr
+m.qidian.com##._bdCenterOperateCon_oy3po_726.auto-tr
+m.qidian.com##._bdReadApp_1t6po_568.auto-tr
