@@ -50,3 +50,8 @@ m.qidian.com##.shadow-sd8.absolute.bottom-12px.right-16px.left-16px.primary.semi
 m.qidian.com##._homeDownload_1vaag_773._module_1vaag_376.auto-tr
 m.qidian.com##._bdCenterOperateCon_oy3po_726.auto-tr
 m.qidian.com##._bdReadApp_1t6po_568.auto-tr
+
+! 2024年8月13日 https://audiences.me
+audiences.me##.nowrap.clear
+audiences.me##.head
+
