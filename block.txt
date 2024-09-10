@@ -55,3 +55,24 @@ m.qidian.com##._bdReadApp_1t6po_568.auto-tr
 audiences.me##.nowrap.clear
 audiences.me##.head
 
+! Sep 9, 2024 https://www.south-plus.net
+www.south-plus.net##div:nth-of-type(9)
+www.south-plus.net###header > table > tbody > tr
+www.south-plus.net##.gonggao
+
+! Sep 9, 2024 https://xchina.co
+xchina.co##.push-bottom-container
+xchina.co##div.push-slider:nth-of-type(2)
+xchina.co##div.push-slider:nth-of-type(3)
+xchina.co##.push-top-container
+
+! Sep 9, 2024 https://www.ithome.com
+www.ithome.com##li.n:nth-of-type(1)
+
+! Sep 9, 2024 https://pt.btschool.club
+pt.btschool.club###ad_belownav
+
+! Sep 9, 2024 https://www.icc2022.com
+www.icc2022.com##[href^="adredir.php"]
+
+
