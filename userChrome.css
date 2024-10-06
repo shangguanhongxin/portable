@@ -1,0 +1,74 @@
+/* 
+  This stylesheet is based on:
+    - https://github.com/khuedoan/one-line-firefox
+    - https://github.com/MrOtherGuy/firefox-csshacks
+*/
+
+/* Title bar */
+
+/* 隐藏标签栏 */
+#TabsToolbar {
+    visibility: collapse !important;
+}
+
+/* 隐藏书签工具栏 */
+/*
+#PersonalToolbar {
+    display: none !important;
+}
+*/
+#nav-bar {
+	position: fixed !important;
+	top: 0;
+	left: 25%;
+	right: 25%;
+
+	@media (max-width: 1100px) {
+		left: 15%;
+		right: 15%;
+	}
+
+	@media (max-width: 800px) {
+		left: 30px;
+		right: 30px;
+	}
+
+	z-index: -999;
+	transition: top 0.3s cubic-bezier(0.270, 0.910, 0.435, 1.280),
+	opacity 0.1s ease !important;
+	border-top: none !important;
+	border-radius: 10px;
+	border: 1px solid var(--tab-selected-bgcolor) !important;
+	background: var(--lwt-accent-color) !important;
+	opacity: 0.5;
+	overflow: visible !important;
+	&::after {
+		content: "";
+		position: absolute;
+		width: 100%;
+		height: 1rem;
+		top: -1rem;
+	}
+}
+/*
+优化关闭按钮 
+*/
+.tabbrowser-tab:not([selected]) .tab-close-button
+{
+  visibility: hidden !important;
+  margin-left: -16px !important;
+}
+.tabbrowser-tab:not([selected]):hover .tab-close-button
+{
+  visibility: visible !important;
+  margin-left: 0px !important;
+}
+#context-copy,    /* 复制 */
+#context-cut,    /* 剪切 */
+#context-paste,    /* 粘贴 */
+#context-delete,    /* 删除 */
+#context-undo,    /* 撤销 */
+#context-selectall    /* 全选 */
+{
+  display: none !important;
+}
